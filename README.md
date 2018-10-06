@@ -1,2 +1,2 @@
 # Coinium-Configs
-Configuration files for CoiniumServ
+Configuration files for dding Lonero to CoiniumServ
