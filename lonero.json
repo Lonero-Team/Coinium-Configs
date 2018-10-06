@@ -1,0 +1,11 @@
+{
+    "name": "Lonero",
+    "symbol": "LNR",
+    "algorithm": "keccak",
+    "site": "https://lonero.org/",
+    "node": {
+        "magic": "fbc0b6db",
+        "testnetMagic": "fcc1b7dc"
+    },
+    }
+}
